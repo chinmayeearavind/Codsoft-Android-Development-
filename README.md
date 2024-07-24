@@ -16,13 +16,14 @@ Welcome to Chinmayee Aravind's repository containing a collection of Android Stu
 
 ## Projects
 
-### VTOP - Attendance Application
+### VTOP - Attendance Application 
 
 VTOP is an attendance application designed to streamline attendance tracking for students and proctors. Key features include:
 
 - Students can give live attendance.
 - Proctors can view and approve/decline attendance.
 - Additional features tailored to enhance attendance management.
+- https://github.com/chinmayeearavind/Codsoft-android-development-task-5
 
 ### QUOTES - Quote Application
 
@@ -32,6 +33,7 @@ QUOTES is a quote application that leverages the [Quotable API](https://api.quot
 - Refresh, save, and share quote functionalities.
 - Ability to view saved quotes.
 - An inspiring collection of quotes at your fingertips.
+- https://github.com/chinmayeearavind/Codsoft-android-development-task-2
 
 ### ToDo - Task Management Application
 
@@ -41,6 +43,7 @@ ToDo is a task management application that enables users to organize their tasks
 - Setting task reminders.
 - Marking tasks as complete.
 - Viewing completed tasks.
+- https://github.com/chinmayeearavind/Codsoft-android-development-task-1
 
 ### TimeTuner - Alarm Management App
 
@@ -52,6 +55,7 @@ TimeTuner is an Android application that simplifies alarm management. With TimeT
 - Customizable Tones: Choose from a variety of alarm tones.
 - Alarm Deletion: Remove alarms before or during their ringing.
 - Smooth User Experience: Enjoy a seamless and intuitive app design.
+- https://github.com/chinmayeearavind/Codsoft-android-development-task-3
 
 Never miss an important appointment, meeting, or deadline again. Download TimeTuner and take control of your time!
 
@@ -63,6 +67,7 @@ Notify is an Android application that empowers you to create and send personaliz
 - Confirmation Popup: Review and confirm before sending notifications.
 - Interactive Options: Include options to connect with the developer or dismiss the notification.
 - Stock Image Support: Automatically display a stock image if no custom content is provided.
+- https://github.com/chinmayeearavind/Codsoft-android-development-task-4
 
 Enhance your notification game with Notify. Download now and take control of your notifications!
 
